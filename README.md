@@ -23,5 +23,5 @@ This repository contains the source code for a fully functional **Django E-comme
 ### Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/janabaher4/repo.git
-   cd repo
+   git clone [https://github.com/janabaher4/ecommerce-django.git]
+   cd ecommerce-django
